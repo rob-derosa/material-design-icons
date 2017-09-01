@@ -1,3 +1,7 @@
+# Material design icons light
+
+This is a fork of original material design icons from [google](https://github.com/google/material-design-icons) contains only /iconfont folder.
+
 # Material design icons
 
 Material design icons are the official [icon set](https://www.google.com/design/spec/style/icons.html#icons-system-icons) from Google that are designed under the [material design guidelines](https://material.io/guidelines/).
