@@ -1,4 +1,4 @@
-# Material design icons light
+# Material design icons - light version
 
 This is a fork of original material design icons from [google](https://github.com/google/material-design-icons) contains only /iconfont folder.
 
